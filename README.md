@@ -17,6 +17,6 @@ The URL to the project website will open!
 
 ### Note:
 Make sure all of the provided files listed below are in the same folder when building/running!
-    * entertainment_center.py
-    * media.py
-    * fresh_tomatoes.py
+    - entertainment_center.py
+    - media.py
+    - fresh_tomatoes.py
