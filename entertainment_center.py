@@ -1,6 +1,7 @@
 import fresh_tomatoes
 import media
 
+# Create movie instances and their parameters below.
 fury = media.Movie("Fury",
                    "Tanks shooting stuff",
                    "http://img.moviepostershop.com/fury-movie-poster-2014-1020770902.jpg",
@@ -31,5 +32,8 @@ tombstone = media.Movie("Tombstone",
                         "http://www.ruthlessreviews.com/wp-content/uploads/2017/06/tombstone-meta.jpg",
                         "https://www.youtube.com/watch?v=XTWYKf5hXIg")
 
+# List of movie instances.
 movies = [fury, alien, castaway, jaws, terminator, tombstone]
+
+# Passes movie list and opens URL to movie page.
 fresh_tomatoes.open_movies_page(movies)
