@@ -3,12 +3,7 @@ import webbrowser
 
 class Movie():
     """ This class contains movie related data such as ratings, title, story,
-    poster image and trailer URL.
-
-    Attributes:
-        VALID_RATINGS (const str[]):  List of movie ratings."""
-
-    VALID_RATINGS = ["G", "PG", "PG-13", "R"]
+    poster image and trailer URL."""
 
     def __init__(self, movie_title, movie_storyline, poster_image,
                  trailer_youtube):
