@@ -6,7 +6,7 @@ This small project opens up a VERY simple website and displays a list of movies 
 
 ## Requirements:
 
--Have a computer.
+- Have a computer.
 - Have Python installed or your favorite editor that can build '.py' files such as Sublime.
 - Have a webbrowser(Chrome, Firefox, IE, Edge) and internet connection.
 
@@ -17,6 +17,6 @@ The URL to the project website will open!
 
 ### Note:
 Make sure all of the provided files listed below are in the same folder when building/running!
-    entertainment_center.py
-    media.py
-    fresh_tomatoes.py
+    * entertainment_center.py
+    * media.py
+    * fresh_tomatoes.py
