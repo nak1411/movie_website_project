@@ -20,3 +20,5 @@ Make sure all of the provided files listed below are in the same folder when bui
 - entertainment_center.py
 - media.py
 - fresh_tomatoes.py
+
+*fresh_tomatoes.py and fresh_tomatoes.html provided by Udacity*
